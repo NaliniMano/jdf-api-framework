@@ -3,6 +3,11 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+
+# Other ignored files and folders
+
+- .idea
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
